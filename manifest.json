@@ -1,0 +1,26 @@
+{
+  "manifest_version": 1,
+  "name": "圣遗物锁定方案-严格版",
+  "version": "1.0.0",
+  "bgi_version": "0.56.2",
+  "description": "全 46 套五星圣遗物锁定方案。以「必选词条（星标）」为核心：输出套双暴齐、辅助套充能达标、精通套精通+充能。关闭推荐方案、剔除固定值词条，面向不凹分、主C 200~240 分的正常养成。",
+  "authors": [
+    {
+      "name": "pugzzh",
+      "link": "https://github.com/pugzzh"
+    },
+    {
+      "name": "bling-yshs",
+      "link": "https://github.com/bling-yshs"
+    },
+    {
+      "name": "Bedrockx",
+      "link": "https://github.com/Bedrockx"
+    }
+  ],
+  "settings_ui": "settings.json",
+  "main": "main.js",
+  "library": [
+    "."
+  ]
+}
